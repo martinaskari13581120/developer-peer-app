@@ -18,7 +18,8 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Hello Martin Askari 😎🔥</ThemedText>
+        <ThemedText type="title">Hello Martin Askari</ThemedText>
+        <ThemedText>Find developers near you 🚀</ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
