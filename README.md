@@ -48,3 +48,12 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Lessons Learned
+
+- Learned how to create a React Native project with TypeScript
+- Learned how to use Git and GitHub
+- Learned how to create commits with clear messages
+- Learned how to create branches
+- Learned how to push code to GitHub
+- Learned how to create and merge pull requests
+- Learned how to run React Native apps using Expo and Emulator
